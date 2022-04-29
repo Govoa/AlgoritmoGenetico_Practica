@@ -1,0 +1,138 @@
+Ahora buscamos la relacion entre esos valores y la probilidad de mutacion
+=========================================================
+Probando con la probabilidad de mutacion = 0.01
+=========================================================
+Generacion 1 -> fitnes 100.05000000000001
+Generacion 2 -> fitnes 100.05000000000001
+Generacion 3 -> fitnes 100.05000000000001
+Generacion 4 -> fitnes 100.05000000000001
+Generacion 5 -> fitnes 100.05000000000001
+Generacion 6 -> fitnes 100.05000000000001
+El fitnes nuevo: 100.05000000000001 ha sustituido al antiguo: 0
+=========================================================
+Probando con la probabilidad de mutacion = 0.05
+=========================================================
+Generacion 1 -> fitnes 111.0
+Generacion 2 -> fitnes 111.0
+Generacion 3 -> fitnes 111.0
+Generacion 4 -> fitnes 103.94999999999999
+Generacion 5 -> fitnes 103.94999999999999
+Generacion 6 -> fitnes 108.0
+Generacion 7 -> fitnes 108.0
+Generacion 8 -> fitnes 108.0
+Generacion 9 -> fitnes 108.0
+Generacion 10 -> fitnes 108.0
+Generacion 11 -> fitnes 108.0
+El fitnes nuevo: 108.0 ha sustituido al antiguo: 100.05000000000001
+=========================================================
+Probando con la probabilidad de mutacion = 0.1
+=========================================================
+Generacion 1 -> fitnes 100.05000000000001
+Generacion 2 -> fitnes 100.05000000000001
+Generacion 3 -> fitnes 100.05000000000001
+Generacion 4 -> fitnes 100.05000000000001
+Generacion 5 -> fitnes 100.05000000000001
+Generacion 6 -> fitnes 100.05000000000001
+=========================================================
+Probando con la probabilidad de mutacion = 0.15
+=========================================================
+Generacion 1 -> fitnes 91.05
+Generacion 2 -> fitnes 100.05000000000001
+Generacion 3 -> fitnes 100.05000000000001
+Generacion 4 -> fitnes 100.05000000000001
+Generacion 5 -> fitnes 100.05000000000001
+Generacion 6 -> fitnes 99.0
+Generacion 7 -> fitnes 100.05000000000001
+Generacion 8 -> fitnes 100.05000000000001
+Generacion 9 -> fitnes 100.05000000000001
+Generacion 10 -> fitnes 100.05000000000001
+Generacion 11 -> fitnes 100.05000000000001
+Generacion 12 -> fitnes 100.05000000000001
+=========================================================
+Probando con la probabilidad de mutacion = 0.2
+=========================================================
+Generacion 1 -> fitnes 100.05000000000001
+Generacion 2 -> fitnes 100.05000000000001
+Generacion 3 -> fitnes 99.0
+Generacion 4 -> fitnes 99.0
+Generacion 5 -> fitnes 100.05000000000001
+Generacion 6 -> fitnes 100.95
+Generacion 7 -> fitnes 100.95
+Generacion 8 -> fitnes 100.95
+Generacion 9 -> fitnes 100.95
+Generacion 10 -> fitnes 100.95
+Generacion 11 -> fitnes 100.95
+=========================================================
+Probando con la probabilidad de mutacion = 0.25
+=========================================================
+Generacion 1 -> fitnes 103.05000000000001
+Generacion 2 -> fitnes 100.05000000000001
+Generacion 3 -> fitnes 100.05000000000001
+Generacion 4 -> fitnes 102.00000000000001
+Generacion 5 -> fitnes 100.05000000000001
+Generacion 6 -> fitnes 103.05000000000001
+Generacion 7 -> fitnes 103.05000000000001
+Generacion 8 -> fitnes 103.05000000000001
+Generacion 9 -> fitnes 100.05000000000001
+Generacion 10 -> fitnes 100.05000000000001
+Generacion 11 -> fitnes 112.05
+Generacion 12 -> fitnes 102.00000000000001
+Generacion 13 -> fitnes 102.00000000000001
+Generacion 14 -> fitnes 99.0
+Generacion 15 -> fitnes 100.05000000000001
+Generacion 16 -> fitnes 100.05000000000001
+Generacion 17 -> fitnes 118.05000000000001
+Generacion 18 -> fitnes 100.05000000000001
+Generacion 19 -> fitnes 103.94999999999999
+Generacion 20 -> fitnes 100.05000000000001
+Generacion 21 -> fitnes 100.05000000000001
+Generacion 22 -> fitnes 99.0
+Generacion 23 -> fitnes 100.05000000000001
+Generacion 24 -> fitnes 100.05000000000001
+Generacion 25 -> fitnes 100.05000000000001
+Generacion 26 -> fitnes 100.05000000000001
+Generacion 27 -> fitnes 100.05000000000001
+Generacion 28 -> fitnes 100.05000000000001
+=========================================================
+Probando con la probabilidad de mutacion = 0.3
+=========================================================
+Generacion 1 -> fitnes 100.05000000000001
+Generacion 2 -> fitnes 100.05000000000001
+Generacion 3 -> fitnes 99.0
+Generacion 4 -> fitnes 99.0
+Generacion 5 -> fitnes 99.0
+Generacion 6 -> fitnes 100.05000000000001
+Generacion 7 -> fitnes 100.05000000000001
+Generacion 8 -> fitnes 100.95
+Generacion 9 -> fitnes 100.05000000000001
+Generacion 10 -> fitnes 100.05000000000001
+Generacion 11 -> fitnes 100.05000000000001
+Generacion 12 -> fitnes 100.05000000000001
+Generacion 13 -> fitnes 100.05000000000001
+Generacion 14 -> fitnes 108.0
+Generacion 15 -> fitnes 108.0
+Generacion 16 -> fitnes 100.05000000000001
+Generacion 17 -> fitnes 100.05000000000001
+Generacion 18 -> fitnes 99.0
+Generacion 19 -> fitnes 97.95
+Generacion 20 -> fitnes 94.95
+Generacion 21 -> fitnes 100.05000000000001
+Generacion 22 -> fitnes 100.05000000000001
+Generacion 23 -> fitnes 97.05
+Generacion 24 -> fitnes 100.05000000000001
+Generacion 25 -> fitnes 100.05000000000001
+Generacion 26 -> fitnes 100.05000000000001
+Generacion 27 -> fitnes 100.05000000000001
+Generacion 28 -> fitnes 100.05000000000001
+Generacion 29 -> fitnes 108.0
+Generacion 30 -> fitnes 100.05000000000001
+Generacion 31 -> fitnes 100.05000000000001
+Generacion 32 -> fitnes 100.05000000000001
+Generacion 33 -> fitnes 100.05000000000001
+Generacion 34 -> fitnes 100.05000000000001
+Generacion 35 -> fitnes 100.05000000000001
+Por lo tanto, la red ejecutada que mejor ha funcionado tiene:
+ Nº de genes = 8
+ Nº de poblaciones = 50
+ Probabilidad de mutacion = 0.05
+Dando como resultado un fitnes de 108.0/150, con un numero de generaciones de 10 y un porcentaje de individuos con ese fitnes de 2.0
